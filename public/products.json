@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Audífonos Pro X",
+        "price": 49990,
+        "offerPrice": 39990,
+        "onOffer": true,
+        "description": "Sonido Hi-Fi, cancelación de ruido y 30 h de batería.",
+        "image": "https://picsum.photos/seed/headphones/600/450"
+    },
+    {
+        "id": 2,
+        "name": "Teclado Mecánico 60%",
+        "price": 64990,
+        "offerPrice": 64990,
+        "onOffer": false,
+        "description": "Switches rojos lineales, RGB per-key y cable USB-C.",
+        "image": "https://picsum.photos/seed/mechkeyboard/600/450"
+    },
+    {
+        "id": 3,
+        "name": "Mouse Inalámbrico UltraLight",
+        "price": 39990,
+        "offerPrice": 34990,
+        "onOffer": true,
+        "description": "55 g, sensor 26K DPI y 2.4 GHz sin latencia.",
+        "image": "https://picsum.photos/seed/wirelessmouse/600/450"
+    },
+    {
+        "id": 4,
+        "name": "Monitor 27'' 144Hz",
+        "price": 189990,
+        "offerPrice": 159990,
+        "onOffer": true,
+        "description": "IPS, 1 ms, compatible con G-Sync/FreeSync.",
+        "image": "https://picsum.photos/seed/monitor27/600/450"
+    },
+    {
+        "id": 5,
+        "name": "Webcam Full HD",
+        "price": 29990,
+        "offerPrice": 29990,
+        "onOffer": false,
+        "description": "1080p a 60 fps con micrófono estéreo.",
+        "image": "https://picsum.photos/seed/webcam/600/450"
+    },
+    {
+        "id": 6,
+        "name": "Micrófono USB Cardioide",
+        "price": 54990,
+        "offerPrice": 49990,
+        "onOffer": true,
+        "description": "Patrón cardioide, monitorización sin latencia.",
+        "image": "https://picsum.photos/seed/microphone/600/450"
+    },
+    {
+        "id": 7,
+        "name": "Silla Ergonómica",
+        "price": 129990,
+        "offerPrice": 129990,
+        "onOffer": false,
+        "description": "Soporte lumbar, reposacabezas y ajuste 3D.",
+        "image": "https://picsum.photos/seed/ergonomicchair/600/450"
+    },
+    {
+        "id": 8,
+        "name": "Base Notebook con Ventilación",
+        "price": 19990,
+        "offerPrice": 15990,
+        "onOffer": true,
+        "description": "Aluminio, altura regulable y doble ventilador.",
+        "image": "https://picsum.photos/seed/laptopstand/600/450"
+    }
+]
